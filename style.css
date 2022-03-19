@@ -173,6 +173,7 @@ i {
 .refresh {
     position: absolute;
     margin: 60px 15px;
+    font-size: smaller;
     width: 60px;
     padding: 5px;
     border: 1px solid #000;
